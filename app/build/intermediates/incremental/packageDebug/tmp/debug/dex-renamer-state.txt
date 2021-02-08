@@ -1,0 +1,4 @@
+#Sun Feb 07 20:37:20 EST 2021
+base.0=C\:\\Users\\chris\\Desktop\\EECS 4443\\Demo_Buttons_71179\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
